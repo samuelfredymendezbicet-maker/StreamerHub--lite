@@ -1,2 +1,2 @@
-# StreamerHub--lite
+# StreamerHub-Élite
 Un sitio acogedor si quieres ser streamer y generar ingresos desde el hogar 
